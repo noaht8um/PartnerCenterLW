@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "ConnectWiseControlAPI"
+		},
+		{
+			"path": "CWAutomateAPI"
+		},
+		{
+			"path": "CWHomeAPI"
+		},
+		{
+			"path": "DNSFilterAPI"
+		},
+		{
+			"path": "DuoAPI"
+		},
+		{
+			"path": "GenOTP"
+		},
+		{
+			"path": "HuntressAPI"
+		},
+		{
+			"path": "QuickpassAPI"
+		},
+		{
+			"path": "SentinelOneAPI"
+		},
+		{
+			"path": "SophosAPI"
+		},
+		{
+			"path": "CyberCNSAPI"
+		},
+		{
+			"path": "ITBoostAPI"
+		}
+	]
+}
